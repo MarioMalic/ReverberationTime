@@ -10,7 +10,7 @@ To calculate the room reverberation time and apparent sound reduction index for 
 ## How to install the application?
 Requirements:
   * MATLAB R2023a (compatibility with other versions is to be checked)
-  * lvm_import function (file that imports LabVIEW .lvm files which can be obtained from MATLAB File Exchange)
+  * lvm_import function ([file that imports LabVIEW .lvm files which can be obtained from MATLAB File Exchange](https://uk.mathworks.com/matlabcentral/fileexchange/19913-lvm-file-import))
 
 The code is distributed as the .mlapp file which you can open within MATLAB.
 
